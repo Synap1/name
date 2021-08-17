@@ -1,0 +1,9 @@
+__G.F = falsea
+
+ while _G.F do wait()
+
+local A_1 = "swingKatana"
+local Event = game:GetService("Players").TRetx04.ninjaEvent
+Event:FireServer(A_1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(71.18579864502, 14.817496299744, -46.510280609131)
+end 
